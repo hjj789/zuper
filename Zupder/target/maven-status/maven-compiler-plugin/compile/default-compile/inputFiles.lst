@@ -1,0 +1,9 @@
+E:\idea\Zupder\src\main\java\com\example\zupder\ZupderApplication.java
+E:\idea\Zupder\src\main\java\com\example\zupder\repository\UploadTaskRepository.java
+E:\idea\Zupder\src\main\java\com\example\zupder\repository\FileInfoRepository.java
+E:\idea\Zupder\src\main\java\com\example\zupder\entity\FileInfo.java
+E:\idea\Zupder\src\main\java\com\example\zupder\service\FileService.java
+E:\idea\Zupder\src\main\java\com\example\zupder\controller\FileController.java
+E:\idea\Zupder\src\main\java\com\example\zupder\config\CorsConfig.java
+E:\idea\Zupder\src\main\java\com\example\zupder\config\WebConfig.java
+E:\idea\Zupder\src\main\java\com\example\zupder\entity\UploadTask.java
